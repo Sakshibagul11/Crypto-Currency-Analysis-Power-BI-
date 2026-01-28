@@ -20,4 +20,8 @@
   
   ![Dashboard-Page-2](https://github.com/Sakshibagul11/Crypto-Currency-Analysis-Power-BI-/blob/main/Price_Trends_Analysis.png)
 
+   <p align="center">
+  <img src="https://user-images.githubusercontent.com/89768465/192094576-16cfcd69-5709-4992-ba69-43d6894c11a7.gif">
+ </p>
+
 
