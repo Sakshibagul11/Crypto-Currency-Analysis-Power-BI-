@@ -12,16 +12,12 @@
 
 ##  🧮 Page 1 : 
   
-  ![Dashboard-Screenshot-Page-1](https://user-images.githubusercontent.com/89768465/195776484-34f8be53-382e-4ab8-8e68-896acee0574f.png)
+  ![Dashboard-Page-1](https://github.com/Sakshibagul11/Crypto-Currency-Analysis-Power-BI-/blob/main/Dashboard_Snapshot.png)
   
-  <!---
-  ![Dashboard-Screenshot](Assets/Cryptocurrency_Dashboard_Page-1.png)
-  -->
+  
   
 ##  🧮 Page 2 : 
   
-  ![Dashboard-Screenshot-Page-2](https://user-images.githubusercontent.com/89768465/195777682-cc3d3e92-fe80-42bd-bdb2-93fa9582a8f6.png)
+  ![Dashboard-Page-2](https://github.com/Sakshibagul11/Crypto-Currency-Analysis-Power-BI-/blob/main/Price_Trends_Analysis.png)
 
-  <!---
-  ![Dashboard-Screenshot](Assets/Cryptocurrency_Dashboard_Page-2.png)
-  -->
+
